@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+div{
+            height: 40px;
+            width: 100px;
+            border: 2px solid black;
+            border-radius: 5px;
+            display: flex;
+            gap: 3px;
+            justify-content:center;
+            align-items: center;
+            background-color: rgb(218, 214, 214);
+        }
+
+        .accio{
+            height: 20px;
+            width: 20px;
+            border-radius: 10px;
+            
+        }
+
+        .one{
+            background-color: green;
+            border: none;
+        }
+        .two{
+            background-color: yellow;
+            border: none;
+        }
+
+        .three{
+            background-color: red;
+            border: none;
+        }
