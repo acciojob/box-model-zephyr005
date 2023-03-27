@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-div{
+.const{
             height: 40px;
             width: 100px;
             border: 2px solid black;
@@ -9,6 +9,7 @@ div{
             justify-content:center;
             align-items: center;
             background-color: rgb(218, 214, 214);
+			padding: 0px;
         }
 
         .background-col{
